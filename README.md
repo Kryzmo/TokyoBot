@@ -1,6 +1,6 @@
 # TokyoBot
 
-TokyoBot is a Discord bot that provides various features including chat supervision, channel and role configuration, user avatar display, music playback, server information display, art display, moderation commands, and easy addition or removal of functionalities.
+TokyoBot is a Discord bot written by me in python that provides various features including chat supervision, channel and role configuration, user avatar display, music playback, server information display, art display, moderation commands, and easy addition or removal of functionalities.
 
 ## Features
 
