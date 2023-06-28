@@ -33,15 +33,17 @@ To install TokyoBot, follow these steps:
 
 ## Usage
 
-Once the bot is running, you can use the following commands:
+Once the bot is running, you can use commands such as:
 
 - `!dev h`: Show configuration of channels, roles and messages.
 - `!avatar <user>`: Displays the avatar of the specified user.
 - `!play <song>`: Plays the specified song in a voice channel.
 - `!serverinfo`: Displays information about the server.
 - `!art <keyword>`: Displays an image related to the specified keyword.
-- `!kick <user>`: Kicks the specified user from the server.
-- `!ban <user>`: Bans the specified user from the server.
+- `!mute <user> <duration> <reason>`: Kicks the specified user from the server.
+- `!kick <user> <reason>`: Kicks the specified user from the server.
+- `!ban <user> <reason>`: Bans the specified user from the server.
+And many more...
 
 ## License
 
