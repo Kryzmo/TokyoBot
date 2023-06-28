@@ -163,7 +163,7 @@ class Polecenia_administracji(commands.Cog, name="Polecenia Administracji"):
 
     # BAN COMMAND #
     @has_mod_role()
-    @commands.command(aliases=['zbanuj', 'usun', 'wykurwiaj', 'wypierdalaj'], help='Banuje użytkownika.')
+    @commands.command(aliases=['zbanuj', 'usun'], help='Banuje użytkownika.')
     async def ban(self, ctx: commands.Context, member: discord.Member, *, reason = None):
         try:
             if reason is not None:
